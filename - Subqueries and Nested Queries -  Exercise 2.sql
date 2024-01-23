@@ -1,0 +1,4 @@
+-- Subqueries and Nested Queries - Exercise page 85-86
+-- Exercise 2: Consider a database schema with the following tables:employees Table:employee_id (Primary Key)
+-- first_name, last_name, department_id, salary
+-- departments Table: department_id (Primary Key), department_name
